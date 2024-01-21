@@ -1,0 +1,21 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "First note",
+      "userId": 1,
+      "description": "Test description. Ususally it will be longer than this",
+      "content": "Some useful ideas or reminders or mentions of specific event in past or persent that matters or might makes difference in future"
+    },
+    {
+      "id": 2,
+      "title": "Test note",
+      "userId": 1,
+      "description": "This is just a test note",
+      "content": "Some intersting content"
+    }
+  ],
+  "users": [],
+  "categories": [],
+  "noteCategoryMapping": []
+}
