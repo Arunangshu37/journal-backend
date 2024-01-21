@@ -15,7 +15,14 @@
       "content": "Some intersting content"
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@gmail.com",
+      "password": "John@123"
+    }
+  ],
   "categories": [],
   "noteCategoryMapping": []
 }
